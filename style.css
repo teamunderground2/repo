@@ -49,7 +49,7 @@ h1 {
 
 @keyframes blink {
   0%, 100% { outline-color: #d6f29b; }
-  50% { outline-color: #6b7f41; }
+  50% { outline-color: #5A6C34; }
 }
 
 .carousel {
@@ -57,12 +57,12 @@ h1 {
   align-items: center;
   gap: 300px;
   transform: translateX(0);
-  transition: transform 0.2s ease;
-  padding-left: 480px;
+  transition: transform 0.4s ease;
+  padding-left: 1500px;
 }
 
 .icon {
-  width: 180px;
+  width: 200px;
   height: 100px;
   cursor: pointer;
   filter: brightness(0.8);
