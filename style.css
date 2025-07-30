@@ -71,3 +71,8 @@ h1 {
 .icon.active {
   filter: brightness(1.0);
 }
+@media (max-width: 1060px) {
+  .carousel {
+    gap: 200px !important;
+	padding-left: 1200px;
+}
